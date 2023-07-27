@@ -5,7 +5,7 @@
 ### Hi there, I am Jaya 👋
 [![Linkedin Badge](https://img.shields.io/badge/-jaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayavarshini/)](https://www.linkedin.com/in/jayavarshini/)
 
-- 🎯 Portfolio website: 
+- 🎯 Portfolio website: https://jayavarshini6.github.io/website/
 - ⚡ Fun fact:  Data is like people – interrogate it hard enough and it will tell you whatever you want to hear.🤓
 
 💻 **Things I love**
