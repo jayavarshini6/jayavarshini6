@@ -11,9 +11,10 @@
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Data Visualization 🎨
-- Machine Learning 🧐
-- Data Science 😬
-
+- Data Engineering 🥰
+- Machine Learning 🤖
+- Data Science 🫀
+- Creating New Fusion Indian + American Recipes 🥗
     
 🛠**Tech Stack**
 
