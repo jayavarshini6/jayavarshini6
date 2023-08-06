@@ -15,7 +15,8 @@
 - Machine Learning 🤖
 - Data Science 🫀
 - Creating New Fusion Indian + American Recipes 🥗
-    
+
+  
 🛠**Tech Stack**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
